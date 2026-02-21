@@ -58,7 +58,7 @@ void loop() {
   if (temp > TEMP_CRITIQUE) {
     lcd.print("URGENT !");
   } else {
-    lcd.print("            "); // vide la ligne
+    lcd.print("            "); // vide la ligne;
   }
 
   // ----------- Envoi Serial -----------  
