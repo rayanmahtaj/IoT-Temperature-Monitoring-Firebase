@@ -9,6 +9,10 @@ Hybrid IoT Temperature Monitoring System using Arduino Uno (Edge) and ESP32 (Clo
 
 ![IMAGE4](https://github.com/user-attachments/assets/06147d0e-d6c5-48f8-9ba1-5e87c089ea35)
 
+![IMAGE3](https://github.com/user-attachments/assets/16bed879-3ba4-443c-8a47-7a833697dcad)
+
+![IMAGE2](https://github.com/user-attachments/assets/07dfac10-f2a9-4573-8a39-9c15647bf9bc)
+![IMAGE1](https://github.com/user-attachments/assets/bd3a9289-dda6-4161-af8e-0440dae43556)
 
 
 
